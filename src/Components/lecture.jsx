@@ -1,14 +1,14 @@
-import './components.css';
+import "./components.css";
 import Header from './Header';
 
-const Lecturer = () => {
-    
+function Lecture() {
+
     return (
        <>
             <Header />
-            <p className="Admin-box"> Lecturer Pannel</p>
+            <p className="Admin-box">Lecutrer Pannel</p>
       </>
     )
-};
+}
 
-export default Lecturer;
+export default Lecture;

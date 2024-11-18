@@ -1,7 +1,7 @@
-import "./components.css"
+import "./components.css";
 import Header from './Header';
 
-const Admin = () => {
+function Admin() {
 
     return (
        <>
@@ -9,6 +9,6 @@ const Admin = () => {
             <p className="Admin-box"> Admin Pannel</p>
       </>
     )
-};
+}
 
 export default Admin;

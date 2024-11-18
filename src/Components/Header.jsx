@@ -15,7 +15,7 @@ function Header()
                         <ul>
                             <li><Link to="/admin">Admin</Link></li>
                             <li><Link to="/manager">Manager</Link></li>
-                            <li><Link to="/Lecturer">Lecturer</Link></li>
+                            <li><Link to="/lecture">Lecturer</Link></li>
                         </ul>
                     </nav>
                 </div>
