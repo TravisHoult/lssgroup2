@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Components"
   ],
-  "SelectedNode": "\\C:\\Users\\Rocki\\Source\\Repos\\IonicTelomere\\lssgroup2",
+  "SelectedNode": "\\src\\Components\\lecture.jsx",
   "PreviewInSolutionExplorer": false
 }

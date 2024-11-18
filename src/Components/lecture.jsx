@@ -6,7 +6,7 @@ function Lecture() {
     return (
        <>
             <Header />
-            <p className="Admin-box">Lecutrer Pannel</p>
+            <p className="Admin-box">Lecutrer Pannel hehehe</p>
       </>
     )
 }
