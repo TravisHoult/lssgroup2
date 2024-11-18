@@ -1,7 +1,14 @@
-import './index.css'
+import './components.css';
+import Header from './Header';
 
 const Manager = () => {
-    return <h1>Admin Dashboard</h1>;
+   
+    return (
+   <>
+        <Header />
+        <p className="Admin-box">Manager Pannel</p>
+  </>
+)
 };
 
 export default Manager;
