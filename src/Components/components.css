@@ -1,0 +1,24 @@
+
+/*Admin Page*/
+.Admin-box {
+    margin: 100px;
+}
+
+/*Manager Page*/
+
+/*Lecturer Page*/
+
+
+/*Header*/
+.Header-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    z-index: 1000; 
+}
