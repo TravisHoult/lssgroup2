@@ -1,7 +1,16 @@
-import './index.css'
+import "./components.css";
+import Header from './Header';
 
-const Lecturer = () => {
-    return <h1>Admin Dashboard</h1>;
+function Lecture() {
+
+    return (
+       <>
+            <Header />
+            <p className="Admin-box">Lecutrer Pannel hehehe</p>
+      </>
+    )
+}
+
+export default Lecture;
 };
 
-export default Lecturer;
